@@ -7,20 +7,10 @@ Hi, I'm Chetan!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <hr/>
-🔭 I’m currently working on Mobile Apps.
-🌱 I’m currently learning more on Jetpack Compose, Flutter and Android Development.
-👯 I’m looking to collaborate on Podcasts, Youtube, Projects etc.
-💬 Ask me about Android Development.
-
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chetan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=chetan532&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center"> If you can dream it, you can do it🔥 </p>
-</p>
+🔭 I’m currently working on Mobile Apps.<br/>
+🌱 I’m currently learning more on Jetpack Compose, Flutter and Android Development.<br/>
+👯 I’m looking to collaborate on Podcasts, Youtube, Projects etc.<br/>
+💬 Ask me about Android Development.<br/>
 
 ### 👨‍💻 Programming languages
 
