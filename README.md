@@ -7,7 +7,10 @@ Hi, I'm Chetan!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <hr/>
-I am an Android Developer🎡 & Flutter Developer, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+🔭 I’m currently working on Mobile Apps.
+🌱 I’m currently learning more on Jetpack Compose, Flutter and Android Development.
+👯 I’m looking to collaborate on Podcasts, Youtube, Projects etc.
+💬 Ask me about Android Development.
 
 ## 🔥 Streak stats
 
